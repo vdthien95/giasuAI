@@ -1,0 +1,8 @@
+{
+  "name": "AI Gia sư Socrates",
+  "description": "Một gia sư thông minh giúp học sinh tự tìm ra câu trả lời thông qua suy luận theo phương pháp Socrates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
